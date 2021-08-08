@@ -1,3 +1,4 @@
 streamlit
 streamlit-folium
+git+git://github.com/giswqs/whitebox
 git+git://github.com/giswqs/leafmap
